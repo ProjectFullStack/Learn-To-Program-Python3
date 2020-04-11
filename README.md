@@ -10,5 +10,5 @@ Note: We use Python 3.8.2 for all examples. If you are using a different version
 * [Python Documentation](https://docs.python.org/3/)  
 * [Visual Studio Code Editor](https://code.visualstudio.com/)  
 
-# Presentations
-* [1. Introduction](slides/python_101_1.pptx)  
+# [Presentations](slides/)  
+* [1. Introduction](slides/python_101_1.pdf)  
