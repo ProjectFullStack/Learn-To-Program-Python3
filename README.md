@@ -10,5 +10,9 @@ Note: We use Python 3.8.2 for all examples. If you are using a different version
 * [Python Documentation](https://docs.python.org/3/)  
 * [Visual Studio Code Editor](https://code.visualstudio.com/)  
 
-# [Presentations](slides/)  
-* [1. Introduction](slides/python_101_1.pdf)  
+# [Presentations](presentations/)  
+* [1. Introduction](presentations/pdf/1_introduction.pdf)  
+* [2. Thinking About Programs](presentations/pdf/2_thinking_about_programs.pdf)  
+* [3. Setting Up Development Environment](presentations/pdf/3_setting_up_your_environment.pdf)  
+* [4. Data Types and Variables](presentations/pdf/4_data_types_and_variables.pdf) 
+* [5. Operators and Operands](presentations/pdf/5_operators_and_operands.pdf) 
