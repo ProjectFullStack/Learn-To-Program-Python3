@@ -19,4 +19,4 @@ Note: We use Python 3.8.2 for all examples. If you are using a different version
 * [6. Working With Strings](presentations/pdf/6_working_with_strings.pdf) 
 
 # [Exercises](exercises/)  
-1. Working With Strings [exercise](exercises/working_with_strings.txt) -- [solution](exercises/solutions/working_with_strings.txt)
+1. Working With Strings [exercise](exercises/working_with_strings.txt) -- [solution](exercises/solutions/working_with_strings.py)
