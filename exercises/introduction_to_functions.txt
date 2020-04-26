@@ -1,0 +1,15 @@
+"""
+1. Write a function that prints the same thing twice, it will need one 
+parameter (the value to print)
+"""
+
+"""
+2. Write a function to square a number (multiply it by itself), it will only 
+need one parameter (the number to square). The function should print the result.
+"""
+
+"""
+3. Write a function to exponentiate a number, it will need two parameters. 
+The function should print the result of the first parameter raised to 
+the power of the second parameter.
+"""

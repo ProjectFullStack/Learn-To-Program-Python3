@@ -31,3 +31,5 @@
 # 11. Remove the "***" characters in the following string: "***SUCCESS"
 
 # 12. What is the zero index in the following string: "Make sure to use brackets!"
+
+# 13. What is the length of the following string: "Make sure to use brackets!"
